@@ -32,9 +32,4 @@ Using SPL for:
 - Timecharts  
 - Tabular reports  
 
-Dashboard JSON is included for import.
-
----
-
-## 📁 Repository Structure
 
